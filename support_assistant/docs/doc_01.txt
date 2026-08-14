@@ -1,0 +1,7 @@
+Delivery Policy
+
+Zepto delivers orders as quickly as possible, typically within the estimated delivery time shown during checkout. Delivery times may vary because of weather conditions, traffic, store availability, or high demand.
+
+Customers can track their orders in real time through the Zepto app. Delivery charges depend on the delivery location, order value, and promotional offers.
+
+If a delivery is delayed, customers will receive updates through the app.

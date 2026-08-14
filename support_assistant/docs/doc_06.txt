@@ -1,0 +1,7 @@
+Order Tracking Policy
+
+Customers can monitor the progress of their orders through the Zepto app.
+
+Tracking information includes order confirmation, packing status, dispatch, estimated arrival time, and delivery completion.
+
+If tracking information is unavailable or inaccurate, customers should contact Zepto Customer Support for assistance.
