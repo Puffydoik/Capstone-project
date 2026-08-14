@@ -181,6 +181,55 @@ Intent Classification
 - Pydantic
 
 ---
+## Example API Calls (MOCK_LLM Default)
+
+### Example 1: Policy Question
+
+**Request**
+
+```http
+POST /ask
+Content-Type: application/json
+
+{
+  "question": "What is your return policy?"
+}
+```
+
+**Response**
+
+```json
+{
+  "answer": "Based on the retrieved context, customers can return eligible products within the specified return period.",
+  "sources": ["doc_02.txt"],
+  "confidence": 0.95
+}
+```
+
+---
+
+### Example 2: General Question
+
+**Request**
+
+```http
+POST /ask
+Content-Type: application/json
+
+{
+  "question": "Tell me a joke."
+}
+```
+
+**Response**
+
+```json
+{
+  "answer": "This is a mock response for a general question.",
+  "sources": [],
+  "confidence": 1.0
+}
+```
 
 # Installation
 
