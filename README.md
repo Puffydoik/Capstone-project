@@ -4,8 +4,8 @@
 
 This repository contains the complete Capstone Project, which is divided into three modules:
 
-- Analytics
 - Data Pipeline
+- Analytics
 - Support Assistant (Retrieval-Augmented Generation)
 
 The project demonstrates the complete data science workflow, including data collection, preprocessing, exploratory data analysis, machine learning, database management, information retrieval, and API development.
