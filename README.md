@@ -17,16 +17,16 @@ The project demonstrates the complete data science workflow, including data coll
 ```
 CAPSTONE PROJECT/
 │
-├── analytics/
-│   ├── 01_eda.ipynb
-│   ├── titanic.csv
-│   └── titanic_random_forest_pipeline.pkl
-│
 ├── Data Pipeline/
 │   ├── scraper.py
 │   ├── books.db
 │   ├── books.json
 │   └── sql_query_results.json
+├── analytics/
+│   ├── 01_eda.ipynb
+│   ├── titanic.csv
+│   └── titanic_random_forest_pipeline.pkl
+│
 │
 ├── support_assistant/
 │   ├── app/
@@ -75,7 +75,7 @@ A fixed exchange rate was used throughout the project:
 
 ---
 
-# Module 1: Analytics
+# Module 2: Analytics
 
 ## Objective
 
