@@ -40,6 +40,41 @@ CAPSTONE PROJECT/
 
 ---
 
+# Module 1: Data Pipeline
+
+## Objective
+
+Build an automated data pipeline that scrapes book data, cleans it, stores it in a SQLite database, and performs SQL analysis.
+
+## Features
+
+- Web scraping
+- Data cleaning
+- Currency conversion
+- SQLite database creation
+- SQL queries
+- JOIN operations
+- Data analysis using Pandas
+
+## Dataset Fields
+
+- Book Title
+- Category
+- Price (GBP)
+- Price (INR)
+- Rating
+- Stock Availability
+
+### Currency Conversion
+
+A fixed exchange rate was used throughout the project:
+
+```
+1 GBP = 105.50 INR
+```
+
+---
+
 # Module 1: Analytics
 
 ## Objective
@@ -87,40 +122,6 @@ Perform exploratory data analysis and build machine learning models using the Ti
 - Mean Absolute Percentage Error (MAPE)
 - R² Score
 
----
-
-# Module 2: Data Pipeline
-
-## Objective
-
-Build an automated data pipeline that scrapes book data, cleans it, stores it in a SQLite database, and performs SQL analysis.
-
-## Features
-
-- Web scraping
-- Data cleaning
-- Currency conversion
-- SQLite database creation
-- SQL queries
-- JOIN operations
-- Data analysis using Pandas
-
-## Dataset Fields
-
-- Book Title
-- Category
-- Price (GBP)
-- Price (INR)
-- Rating
-- Stock Availability
-
-### Currency Conversion
-
-A fixed exchange rate was used throughout the project:
-
-```
-1 GBP = 105.50 INR
-```
 
 ---
 
