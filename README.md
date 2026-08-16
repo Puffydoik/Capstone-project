@@ -22,11 +22,11 @@ CAPSTONE PROJECT/
 │   ├── books.db
 │   ├── books.json
 │   └── sql_query_results.json
+│
 ├── analytics/
 │   ├── 01_eda.ipynb
 │   ├── titanic.csv
 │   └── titanic_random_forest_pipeline.pkl
-│
 │
 ├── support_assistant/
 │   ├── app/
